@@ -1,0 +1,6 @@
+{
+  "name": "Sorena SEO AI Dashboard",
+  "description": "An advanced, high-fidelity AI-driven content strategy and search engine optimization console utilizing Gemini server-side processing under the Sophisticated Dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
